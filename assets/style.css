@@ -1,0 +1,41 @@
+/**
+ * External Dashboard Form Styles
+ */
+
+/* Dashboard Widget Styles */
+.edf-iframe-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.edf-iframe-container iframe {
+    border: 0;
+    height: 400px;
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Admin Form Styles */
+#edf_remove_form_submit {
+    margin-top: 10px;
+}
+
+/* Dashboard META box control styling */
+.postbox-container .edf-iframe-container {
+    margin-top: 10px;
+}
+
+/* Form submission notices */
+.settings-error.notice {
+    margin: 20px 0 15px;
+}
+
+/* Submit button styling */
+#edf_remove_form_submit {
+    color: #a00;
+}
+
+#edf_remove_form_submit:hover {
+    color: #dc3232;
+}
