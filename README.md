@@ -17,9 +17,10 @@ External Dashboard Form is a WordPress plugin that allows administrators to embe
 
 ## Installation
 
-1. Upload the `external-dashboard-form` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to the 'External Forms' menu in the admin sidebar
+1. [Download the latest release](https://github.com/imonroe/external-dashboard-forms/archive/refs/tags/1.0.0.zip) as a zip file.
+2. Upload the zip file to your Wordpress site (`/wp-admin/plugin-install.php`), using the "Upload Plugin" button.
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Go to the 'External Forms' menu in the admin sidebar
 
 ## Usage
 
